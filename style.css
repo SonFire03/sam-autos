@@ -12,16 +12,12 @@ nav {
   position: fixed;
   top: 0;
   width: 100%;
-  background: #000; /* ou #fff selon ton thème */
+  background: #000;
   border-bottom: 1px solid #333;
   padding: 10px 0;
+  text-align: center;
   z-index: 1000;
-
-  display: flex;
-  justify-content: center;
-  gap: 20px; /* espace entre les liens */
 }
-
 nav a {
   margin: 0 15px;
   text-decoration: none;
