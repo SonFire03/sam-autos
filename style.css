@@ -152,3 +152,24 @@ footer a {
   vertical-align: middle;
   filter: brightness(0.9);
 }
+.pourquoi-list {
+  list-style: none;
+  padding: 0;
+  font-size: 1.1em;
+  line-height: 1.8em;
+  max-width: 800px;
+  margin: auto;
+  color: #ddd;
+}
+.confiance-box {
+  background: #1f1f1f;
+  border: 2px solid #9c6eff;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: 40px auto 20px;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.1em;
+  color: #eee;
+  box-shadow: 0 0 10px #9c6eff33;
+}
